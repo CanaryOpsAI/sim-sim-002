@@ -1,0 +1,3 @@
+# CMP-443 progress
+
+- 2026-01-23 16:01 work on AI identifies job type, size band and observed elements from the photos
